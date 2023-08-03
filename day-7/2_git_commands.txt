@@ -9,3 +9,5 @@ setup git configuration in local
 2. git status => Check the current status of the repo
 3. git add . => Add all the changes to the git repo
 4. git commit -m "<commit_message>"
+5. git branch => list all the git branches
+6. git remote -v => list all the remote urls
