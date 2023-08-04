@@ -1,0 +1,4 @@
+=> while working on  a professional project  we do not merge code from other branches to the main branch in local.
+=> The codes in the main branch should always go through a review process.
+=> Pull request is opened in the github.It can be opened by selecting two branches; one branch is the feature branch
+and another branch is main branch
