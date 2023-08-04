@@ -1,9 +1,19 @@
 1.  git branch
     =>list all the branches and highlights the active branch
+
 2.  git branch <branch_name>
     =>creates an new branch
+
 3.  git checkout<branch_name>
     =>jumps to the branch name provided
+
 4.   git checkout -b <branch_name>
     =>step 2 and step 3 can be obtained by this single command i.e create a new branch and jump to that newly
     created branch with all the codes from the existing branch
+
+5.  git merge <branch_name>
+    =>merges the code from the branch name provided to the current branch
+
+6.  git pull
+    =>pulls the code from remote branch to the local branch
+
