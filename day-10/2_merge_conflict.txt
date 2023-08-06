@@ -1,0 +1,21 @@
+Merge conflict arises if we try to merge one branch to another where certain lines of codes in one branch is committed
+in one branch and the same lines of code in the other branch is also committed.
+
+
+a = 1
+b = 2
+print("a*b")
+print("a-b")
+
+
+b=0
+c=8
+print("b*c")
+
+
+b = 3
+c = 3
+print("a=b")
+git add
+commit change add to another branch and merge
+
