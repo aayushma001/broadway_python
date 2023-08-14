@@ -29,15 +29,15 @@ for key, value in student.items():
     print(value)
 # range() function
 # We can give three parameters in the range function range(start, end, step_size)
-a = range(10) # gives from 0 to 9; 10 is exclusive
-print(range) # range object
-print(list(a)) # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+a = range(10)  # gives from 0 to 9; 10 is exclusive
+print(range)  # range object
+print(list(a))  # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-a = range(2, 10) # gives from 2 to 9
-print(list(a)) # [2, 3, 4, 5, 6, 7, 8, 9]
+a = range(2, 10)  # gives from 2 to 9
+print(list(a))  # [2, 3, 4, 5, 6, 7, 8, 9]
 
 
-a = (2, 10 , 2) # [2, 4, 6, 8]
+a = (2, 10 , 2)  # [2, 4, 6, 8]
 print(list(a))
 
 squared = []
@@ -45,5 +45,5 @@ for i in range(1, 13):
     squared.append(i**2)
 print(squared) # [1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144]
 
-squared = [i**2 for i in range (1,13)] # List comprehension
+squared = [i**2 for i in range(1, 13)]  # List comprehension
 print(squared)
