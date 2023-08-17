@@ -21,12 +21,10 @@ name = "jon" ; age = 23
 # but in python block is determined by indentation
 # for example
 a = 2
-if
-    a == 2:
+if a == 2:
     print("hello world")
     b = 2
-    if
-        b == 2:
+    if b == 2:
         print("python")
         print("Is")
         print("Awesome")
