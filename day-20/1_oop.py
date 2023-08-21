@@ -1,9 +1,15 @@
-# OOP stands for object oriented programming
+# OOP stands for object-oriented programming
 # It is the way of the modelling the real world problems into a program.
 # It has two important components;Class and objects
 
 # Classes are the blueprints of an object
 # objects are the instance of the class
+
+# Major features of object-oriented programming
+# 1. Inheritance
+# 2. encapsulation
+# 3. Polymorphism
+# 4. abstraction
 
 class Vehicle:
     category = "car" # This is a class attribute
