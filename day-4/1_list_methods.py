@@ -41,7 +41,7 @@ print(result) # 6
 
 # vowels = [5,4,10,"o","u",10,4]
 # result = vowels.index(2,4,8)
-# print(result) it raises eror
+# print(result) it raises error
 
 
 # count() method takes list item as a parameter and returns the number of repetation
